@@ -2,8 +2,8 @@
 
 A highly motivated and skilled Software Engineer with a Bachelor's degree in Software Engineering specializing in Artificial Intelligence. Proven ability to develop and implement innovative solutions across a range of technologies. Passionate about creating efficient, scalable, and user-friendly applications.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaklakovv&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaklakovv&layout=compact&theme=tokyonight)
 
 ## Skills
 
