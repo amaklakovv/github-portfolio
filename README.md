@@ -31,35 +31,26 @@ A highly motivated and skilled Software Engineer with a Bachelor's degree in Sof
 
 Developed a simple mobile habit tracker application using Swift. It can be ran on a server with multiple users connected.
 
-![Habit Tracker Screenshot](path/to/habit-tracker-screenshot.png)
-
 ### Collaborative Java Application [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 *Aug 2024 - Oct 2024*
 
 Contributed to a team project, leading the development of the rendering component. This included creating on-screen visuals, animations, and designing the user interface for an enhanced user experience.
-
-![Collaborative Java App Screenshot](path/to/java-app-screenshot.png)
 
 ### Automated AWS Web Server [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 *Aug 2024 - Sep 2024*
 
 Designed and implemented an automated AWS solution for deploying web servers and ensuring seamless client connectivity.  Leveraged EC2 instances with auto-scaling and load balancing to achieve high availability and easy access.
 
-![AWS Deployment Diagram](path/to/aws-deployment-diagram.png)
-
 ### Diving Dolphins (Java Game Development) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 *Sep 2023 - Oct 2023*
 
 Developed an engaging and visually appealing game using Java. Integrated core game development principles like gravity and collision detection, while focusing on meticulous art styling. This experience honed my coding expertise, problem-solving capabilities, and creative vision.
-
-![Diving Dolphins Game Screenshot](path/to/diving-dolphins-screenshot.png)
 
 ### Music Database (PHP & SQL Website) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 *Jun 2022 - Sep 2022*
 
 Designed and built a user-friendly music database website using PHP, SQL, and HTML/CSS. The site allows music enthusiasts to discover, organize, and explore their favorite songs and artists.
 
-![Music Database Website Screenshot](path/to/music-database-screenshot.png)
 
 ## Contact
 
