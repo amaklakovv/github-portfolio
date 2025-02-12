@@ -29,7 +29,7 @@ A highly motivated and skilled Software Engineer with a Bachelor's degree in Sof
 ### Habit Tracker [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 *Nov 2024 - Jan 2025*
 
-Developed a mobile habit tracker application using Swift.  
+Developed a simple mobile habit tracker application using Swift. It can be ran on a server with multiple users connected.
 
 ![Habit Tracker Screenshot](path/to/habit-tracker-screenshot.png)
 
@@ -40,7 +40,7 @@ Contributed to a team project, leading the development of the rendering componen
 
 ![Collaborative Java App Screenshot](path/to/java-app-screenshot.png)
 
-### Automated AWS Web Server Deployment and Client Connectivity [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+### Automated AWS Web Server [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 *Aug 2024 - Sep 2024*
 
 Designed and implemented an automated AWS solution for deploying web servers and ensuring seamless client connectivity.  Leveraged EC2 instances with auto-scaling and load balancing to achieve high availability and easy access.
